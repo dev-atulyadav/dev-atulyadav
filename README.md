@@ -1,11 +1,11 @@
 ###
 
 <br clear="both">
-<img src="https://streak-stats.demolab.com?user=dev-atulyadav&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph"  />
+
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-atulyadav&radius=16&theme=github-dark&area=false&order=5&hide_border=true" height="280" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=dev-atulyadav&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph"  />
   
-
 
 ###
   
